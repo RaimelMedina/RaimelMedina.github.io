@@ -2,17 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: '"Es la constancia de la cachimba la que tumba la quija" - Los Ecobios'
 profile:
   align: right
   image: my_profile_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>IST Austria, Klosterneuburg, 3400</p>
-
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
