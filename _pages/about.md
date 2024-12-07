@@ -6,20 +6,17 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_profile_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>IST Austria, Klosterneuburg, 3400</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoctoral researcher in the [group of Maksym Serbyn](https://ist.ac.at/en/research/serbyn-group/) at the Institute of Science and Technology Austria.
+My research interests are around variational quantum algorithms and quantum information. I'm also interested in quantum inspired methods and tools from topological data analysis. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my PhD in Physics at the [Institue of Science and Technology Austria](https://ist.ac.at), under the supervision of Maksym Serbyn. Previously to that, I pursued both my Bachelor's and Master's degree in Physics at [Instituto Balseiro](https:://ib.edu.ar) in San Carlos de Bariloche, Argentina.
