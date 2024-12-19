@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: '"Es la constancia de la cachimba la que tumba la quija" - Los Ecobios'
+subtitle: <p>"Es la constancia de la cachimba la que tumba la quija" - Los Ecobios</p>
 profile:
   align: right
   image: my_profile_pic.jpeg
